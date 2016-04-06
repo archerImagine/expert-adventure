@@ -13,4 +13,10 @@ This repo I am going to use to write down 3 important task for next day which I 
     - Honey, Lemon and water in the morning.
     - Meditation in the morning.
     - Start 30 min of reading book.
+* Wed Apr  6 22:28:59 2016
+    - Complete 2 units of A Byte of Python.
+    - Complete unit 1 from peter flach with mam's notes.
+    - ~~Honey, Lemon and water in the morning.~~
+    - ~~Meditation in the morning.~~
+    - Start 30 min of reading book.
 
